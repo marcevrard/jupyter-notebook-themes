@@ -24,14 +24,14 @@
 }
 div#notebook {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 11pt;
  line-height: 170%;
  color: #b5c2d9;
 }
 body,
 div.body {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 11pt;
  color: #899ab8;
  background-color: #16191d;
  background: #16191d;
@@ -53,13 +53,13 @@ a:focus {
 }
 .list_header,
 div#notebook_list_header.row.list_header {
- font-size: 14pt;
+ font-size: 12pt;
  color: #d2d9e4;
  background-color: #16191d;
 }
 div#cluster_list_header.row.list_header,
 div#running .row.list_header {
- font-size: 14pt;
+ font-size: 12pt;
  color: #899ab8;
  background: #222931;
  background-color: #222931;
@@ -71,23 +71,23 @@ div#cluster_list > div.list_item.row:hover {
  background-color: #2d3640;
 }
 div#clusters.tab-pane.active {
- font-size: 12.0pt;
+ font-size: 10.0pt;
  padding: 4px 0 4px 0;
 }
 #running .panel-group .panel .panel-heading {
- font-size: 14pt;
+ font-size: 12pt;
  color: #899ab8;
  padding: 8px 8px;
  background: #222931;
  background-color: #222931;
 }
 #running .panel-group .panel .panel-heading a {
- font-size: 14pt;
+ font-size: 12pt;
  color: #899ab8;
 }
 #running .panel-group .panel .panel-heading a:focus,
 #running .panel-group .panel .panel-heading a:hover {
- font-size: 14pt;
+ font-size: 12pt;
  color: #899ab8;
 }
 #running .panel-group .panel .panel-body .list_container .list_item {
@@ -104,7 +104,7 @@ div#clusters.tab-pane.active {
  padding: 2px;
 }
 div.running_list_info.toolbar_info {
- font-size: 12.0pt;
+ font-size: 10.0pt;
  padding: 4px 0 4px 0;
  height: inherit;
  line-height: inherit;
@@ -118,7 +118,7 @@ div.running_list_info.toolbar_info {
 }
 #project_name > ul > li > a > i.fa.fa-home {
  color: #48a667;
- font-size: 17pt;
+ font-size: 14pt;
  display: inline-block;
  position: static;
  padding: 0px 0px;
@@ -136,11 +136,11 @@ div.running_list_info.toolbar_info {
 }
 div#notebook_toolbar div.dynamic-instructions {
  font-family: "Exo_2", sans-serif;
- font-size: 12.0pt;
+ font-size: 10.0pt;
 }
 .toolbar_info {
  font-family: "Exo_2", sans-serif;
- font-size: 12.0pt;
+ font-size: 10.0pt;
  color: #899ab8;
  text-shadow: none;
  border: none;
@@ -148,14 +148,14 @@ div#notebook_toolbar div.dynamic-instructions {
  line-height: inherit;
 }
 .list_container {
- font-size: 12.0pt;
+ font-size: 10.0pt;
  color: #899ab8;
  border: none;
  text-shadow: none !important;
 }
 .list_container > div {
  border-bottom: 1px solid rgba(70,82,95,.32);
- font-size: 12.0pt;
+ font-size: 10.0pt;
 }
 .list_header > div,
 .list_item > div {
@@ -170,10 +170,10 @@ div#notebook_toolbar div.dynamic-instructions {
  margin-left: -1px;
  vertical-align: middle;
  line-height: 22px;
- font-size: 12.0pt;
+ font-size: 10.0pt;
 }
 .item_icon {
- font-size: 12.0pt;
+ font-size: 10.0pt;
  vertical-align: middle;
 }
 .list_item input:not([type="checkbox"]) {
@@ -185,14 +185,14 @@ div#notebook_toolbar div.dynamic-instructions {
 }
 #button-select-all {
  height: auto;
- font-size: 12.0pt;
+ font-size: 10.0pt;
  padding: 5px;
  min-width: 65px;
  z-index: 0;
 }
 button#tree-selector-btn {
  height: auto;
- font-size: 12.0pt;
+ font-size: 10.0pt;
  padding: 5px;
 }
 input#select-all.pull-left.tree-selector {
@@ -207,7 +207,7 @@ input[type="checkbox"] {
  line-height: normal;
 }
 .list_container a {
- font-size: 17px;
+ font-size: 14px;
  color: #899ab8;
  border: none;
  text-shadow: none !important;
@@ -221,14 +221,14 @@ div.list_item:hover {
  background-color: rgba(70,82,95,.12);
 }
 .breadcrumb > li {
- font-size: 12.0pt;
+ font-size: 10.0pt;
  color: #899ab8;
  border: none;
  text-shadow: none !important;
 }
 ul#tabs a {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 11pt;
  font-weight: normal;
  font-style: normal;
  border-color: transparent;
@@ -236,7 +236,7 @@ ul#tabs a {
 }
 .nav-tabs {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 11pt;
  font-weight: normal;
  font-style: normal;
  background: #16191d;
@@ -273,14 +273,14 @@ ul#tabs a {
 }
 div#notebook {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 11pt;
  padding-top: 4px;
 }
 .notebook_app {
  background-color: #16191d;
 }
 #notebook-container {
- padding: 13px;
+ padding: 11px;
  background-color: #16191d;
  min-height: 0px;
  box-shadow: none;
@@ -307,7 +307,7 @@ div#ipython-main-app.container {
 }
 #header {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 11pt;
  box-shadow: none;
  background-color: #16191d;
 }
@@ -332,7 +332,7 @@ body > #header .header-bar {
 }
 .navbar-default {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 11pt;
  background-color: #16191d;
  border-color: rgba(70,82,95,.52);
  line-height: 1.5em;
@@ -340,7 +340,7 @@ body > #header .header-bar {
 }
 .navbar-default .navbar-nav > li > a {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 11pt;
  color: #899ab8;
  display: block;
  line-height: 1.5em;
@@ -363,7 +363,7 @@ body > #header .header-bar {
  line-height: 1.5em;
 }
 .edit_mode .modal_indicator:before {
- font-size: 13pt;
+ font-size: 11pt;
  color: #2c85f7;
  content: "\f040";
 }
@@ -371,7 +371,7 @@ body > #header .header-bar {
  color: #437dcd;
 }
 .item_buttons .kernel-name {
- font-size: 13pt;
+ font-size: 11pt;
  color: #437dcd;
  line-height: 22px;
 }
@@ -393,7 +393,7 @@ body > #header .header-bar {
  color: #48a667;
  background: #16191d;
  background-color: #16191d;
- font-size: 14.5pt;
+ font-size: 12.5pt;
  border-left: 2px solid #48a667;
  padding-bottom: 2px;
 }
@@ -401,7 +401,7 @@ body > #header .header-bar {
  color: #48a667;
  background: #16191d;
  background-color: #16191d;
- font-size: 14.5pt;
+ font-size: 12.5pt;
  padding-left: 5px;
  padding-right: 5px;
 }
@@ -449,7 +449,7 @@ i.fa.fa-icon {
 }
 .dropdown-menu {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 11pt;
  box-shadow: none;
  padding: 0px;
  text-align: left;
@@ -461,7 +461,7 @@ i.fa.fa-icon {
 }
 .dropdown-menu:hover {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 11pt;
  border: 2px solid rgba(70,82,95,.52);
  background-color: #2e353e;
  box-shadow: none;
@@ -469,7 +469,7 @@ i.fa.fa-icon {
 }
 .dropdown-header {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 11pt;
  display: block;
  color: #48a667;
  text-decoration: underline;
@@ -479,7 +479,7 @@ i.fa.fa-icon {
 }
 .dropdown-menu > li > a {
  font-family: "Exo_2", sans-serif;
- font-size: 12.0pt;
+ font-size: 10.0pt;
  line-height: 1.3;
  display: block;
  padding: 10px 25px 10px 14px;
@@ -510,7 +510,7 @@ i.fa.fa-icon {
 .dropdown-menu > .disabled > a:hover,
 .dropdown-menu > .disabled > a:focus {
  font-family: "Exo_2", sans-serif;
- font-size: 12.0pt;
+ font-size: 10.0pt;
  font-weight: normal;
  color: #5b6270;
  padding: none;
@@ -613,12 +613,12 @@ div.kse-dropdown > .dropdown-menu,
 .alternate_upload .btn-upload,
 .btn-group,
 .btn-group-vertical {
- font-size: 12.0pt;
+ font-size: 10.0pt;
  font-weight: normal;
 }
 .btn-xs,
 .btn-group-xs > .btn {
- font-size: 12.0pt;
+ font-size: 10.0pt;
  background-image: none;
  font-weight: normal;
  text-shadow: none;
@@ -633,7 +633,7 @@ div.kse-dropdown > .dropdown-menu,
 button.close {
  border: 0px none;
  font-family: sans-serif;
- font-size: 25pt;
+ font-size: 18pt;
 }
 .dynamic-buttons {
  font-size: inherit;
@@ -679,7 +679,7 @@ fieldset[disabled] .btn-default.focus {
 }
 .input-group-addon {
  padding: 2px 5px;
- font-size: 12.0pt;
+ font-size: 10.0pt;
  font-weight: normal;
  height: auto;
  color: #899ab8;
@@ -744,7 +744,7 @@ div.modal-footer > button:hover {
 }
 .modal-content {
  font-family: "Exo_2", sans-serif;
- font-size: 12.0pt;
+ font-size: 10.0pt;
  position: relative;
  background: #222931;
  background-color: #222931;
@@ -755,7 +755,7 @@ div.modal-footer > button:hover {
 }
 .modal-header {
  font-family: "Exo_2", sans-serif;
- font-size: 13pt;
+ font-size: 11pt;
  color: #899ab8;
  background: #222931;
  background-color: #222931;
@@ -765,7 +765,7 @@ div.modal-footer > button:hover {
 }
 .modal-content h4 {
  font-family: "Exo_2", sans-serif;
- font-size: 16pt;
+ font-size: 14pt;
  color: #899ab8;
  padding: 5px;
 }
@@ -787,7 +787,7 @@ div.modal-footer > button:hover {
 }
 .modal-header .close {
  margin-top: -5px;
- font-size: 25pt;
+ font-size: 18pt;
 }
 .modal-backdrop,
 .modal-backdrop.in {
@@ -799,7 +799,7 @@ div.panel-default,
 .panel,
 .panel-default {
  font-family: "Exo_2", sans-serif;
- font-size: 12.0pt;
+ font-size: 10.0pt;
  background-color: #2d3640;
  color: #899ab8;
  margin-bottom: 14px;
@@ -808,7 +808,7 @@ div.panel-default,
 }
 div.panel > .panel-heading,
 div.panel-default > .panel-heading {
- font-size: 14pt;
+ font-size: 12pt;
  color: #899ab8;
  background: #222931;
  background-color: #222931;
@@ -918,7 +918,7 @@ div.cell.edit_mode {
 div.prompt,
 .prompt {
  font-family: "Fira Code", monospace;
- font-size: 9.5pt;
+ font-size: 11pt;
  font-weight: normal;
  color: #526488;
  line-height: 170%;
@@ -992,7 +992,7 @@ div.output_subarea {
 }
 div.prompt.output_prompt {
  font-family: "Fira Code", monospace;
- font-size: 9.5pt;
+ font-size: 11pt;
  background-color: #2e353e;
  color: #2e353e;
  border-bottom-left-radius: 2px;
@@ -1004,7 +1004,7 @@ div.prompt.output_prompt {
 }
 div.out_prompt_overlay.prompt {
  font-family: "Fira Code", monospace;
- font-size: 9.5pt;
+ font-size: 11pt;
  background-color: #2e353e;
  border-bottom-left-radius: 2px;
  border-top-right-radius: 0px;
@@ -1028,7 +1028,7 @@ div.text_cell,
 div.text_cell_render pre,
 div.text_cell_render {
  font-family: "Lora", serif;
- font-size: 13pt;
+ font-size: 11pt;
  line-height: 170% !important;
  color: #abb7ce;
  background: #282c34;
