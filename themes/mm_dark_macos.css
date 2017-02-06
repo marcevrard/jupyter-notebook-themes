@@ -1,21 +1,18 @@
 /*
-
 mm-dark theme is inspired by ocean-dark by Chris Kempson
 [https://github.com/chriskempson/base16] and its IPython/Jupyter notebook
 implementation by Nikhil Sonnad [https://github.com/nsonnad/base16-ipython-notebook]
 based on CodeMirror template by Jan T. Sott [https://github.com/idleberg/base16-chrome-devtools].
-
 Author: Milos Miljkovic
 https://github.com/miishke/mm_dark
 Lincense: BSD
-
 */
 
 /*Global setting ============================================================*/
 
 /*Fonts used are locally available in OS X*/
 
-<style>
+/*<style>*/
 
 body {
   background-color: #2b303b;
@@ -224,7 +221,7 @@ span.ansigreen {color: #a3be8c;}
 span.ansiyellow {color: #ebcb8b;}
 span.ansiblue {color: #477ca1;}
 span.ansipurple {color: #a16a94;}
-span.ansicyan {color: ##04b4ae}
+span.ansicyan {color: #04b4ae}
 span.ansigray {color: #a7adba;}
 
 .cm-s-ipython span.cm-property, .cm-s-ipython span.cm-attribute {color: #bbc0c9;}
@@ -264,4 +261,11 @@ span.ansigray {color: #a7adba;}
 /*styling for active line to match theme colors*/
 .CodeMirror-activeline-background {background: #303540;}
 
-</style>
+/*</style>*/
+
+/*div#maintoolbar {
+ display: false !important;
+}*/
+#header-container {
+ display: none !important;
+}
