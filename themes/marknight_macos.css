@@ -111,7 +111,7 @@ ul#tabs {margin-bottom: 0px;}
   width: auto;
   border: none;
   padding-right: 5px;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 div.input_area {border: none; border-radius: 0; background-color: #d8d8d8;}
@@ -174,7 +174,7 @@ div.output_stderr pre {color: #2e2e2e;}
 /*Widgets ===================================================================*/
 
 div.widget-subarea {
-  /*font-family: 'Helvetica Neue', sans-serif;*/
+  font-family: 'Helvetica Neue', sans-serif;
   font-size: 15px;
   color: #bbc0c9;
 }
@@ -262,3 +262,10 @@ span.ansigray {color: #a7adba;}
 .CodeMirror-activeline-background {background: #303540;}
 
 /*</style>*/
+
+/*div#maintoolbar {
+ display: false !important;
+}*/
+#header-container {
+ display: none !important;
+}
