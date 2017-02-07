@@ -385,14 +385,14 @@ span.ansiyellow {color: #f9ee98;}
 .CodeMirror span.cm-atom { color: #ae81ff; }
 .CodeMirror span.cm-number { color: #ae81ff; }
 
-.CodeMirror span.cm-property, .CodeMirror span.cm-attribute { color: #a6e22e; }
+.CodeMirror span.cm-property, .CodeMirror span.cm-attribute { color: #a6e22e; } /* font-style: italic; */
 .CodeMirror span.cm-keyword { color: #f92672; }
 .CodeMirror span.cm-string { color: #e6db74; }
 
 .CodeMirror span.cm-variable { color: #f8f8f2; }
 .CodeMirror span.cm-variable-2 { color: #9effff; }
 .CodeMirror span.cm-variable-3 { color: #66d9ef; }
-.CodeMirror span.cm-def { color: #fd971f; }
+.CodeMirror span.cm-def { color: #a6e22e; }
 .CodeMirror span.cm-bracket { color: #f8f8f2; }
 .CodeMirror span.cm-tag { color: #f92672; }
 .CodeMirror span.cm-header { color: #ae81ff; }
