@@ -390,7 +390,7 @@ span.ansiyellow {color: #f9ee98;}
 .CodeMirror span.cm-string { color: #e6db74; }
 
 .CodeMirror span.cm-variable { color: #f8f8f2; }  /* #fd971f */
-.CodeMirror span.cm-variable-2 { color: #9effff; }
+.CodeMirror span.cm-variable-2 { color: #9effff; font-style: italic; }
 .CodeMirror span.cm-variable-3 { color: #66d9ef; }
 .CodeMirror span.cm-def { color: #a6e22e; }
 .CodeMirror span.cm-bracket { color: #f8f8f2; }
