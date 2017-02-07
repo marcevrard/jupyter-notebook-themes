@@ -450,3 +450,15 @@ div.input_area .CodeMirror {
   line-height: 1.3em;
   padding: 1em;
 }
+
+
+/*****************************************************************************/
+/******************************** My additions *******************************/
+/*****************************************************************************/
+
+/*div#maintoolbar {
+ display: false !important;
+}*/
+#header-container {
+ display: none !important;
+}
