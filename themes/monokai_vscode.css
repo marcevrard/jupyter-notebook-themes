@@ -402,6 +402,14 @@ span.ansiyellow {color: #f9ee98;}
 /**** Keys added from oceans16 ****/
 .CodeMirror span.cm-builtin { color: #a6e22e; }
 /*.CodeMirror span.cm-entity { color: #a6e22e; }*/
+.CodeMirror span.cm-operator { color: #f92672; }
+/*.CodeMirror span.cm-punctuation { color: #; }*/
+/*.CodeMirror span.cm-meta { color: #; }*/
+/*.CodeMirror span.cm-qualifier { color: #; }*/
+/*.CodeMirror span.cm-bracket { color: #; }*/
+/*.CodeMirror span.cm-quote { color: #; }*/
+/*.CodeMirror span.cm-tab { ?? }*/
+
 
 .CodeMirror .CodeMirror-activeline-background { background: #373831; }
 .CodeMirror .CodeMirror-matchingbracket {
